@@ -18,6 +18,31 @@ Repositori ini berisi kumpulan proyek praktikum mata pelajaran **Pemrograman Ber
 
 ---
 
+## 📸 Hasil Output
+
+### Proyek 1 — Class & Object
+![Proyek 1](screenshots/Proyek1.png)
+
+### Proyek 2 — Method & Interaksi Objek
+![Proyek 2](screenshots/Proyek2.png)
+
+### Proyek 3 — Inheritance
+![Proyek 3](screenshots/Proyek3.png)
+
+### Proyek 4 — Encapsulation
+![Proyek 4](screenshots/Proyek4.png)
+
+### Proyek 5 — Abstraction
+![Proyek 5](screenshots/Proyek5.png)
+
+### Proyek 6 — Polymorphism
+![Proyek 6](screenshots/Proyek6.png)
+
+### Proyek Kelompok — Full OOP (Toko Elektronik)
+![Proyek Kelompok](screenshoots/ProyekKelompok.png)
+
+---
+
 ## 🧠 Konsep OOP yang Dipelajari
 
 - **Class & Object** — Cetak biru dan instansiasi objek
