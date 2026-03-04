@@ -21,25 +21,25 @@ Repositori ini berisi kumpulan proyek praktikum mata pelajaran **Pemrograman Ber
 ## 📸 Hasil Output
 
 ### Proyek 1 — Class & Object
-![Proyek 1](screenshots/Proyek1.png)
+<img width="503" height="196" alt="Proyek1" src="https://github.com/user-attachments/assets/db11ba89-13d3-49b3-ad83-14a3b4707a38" />
 
 ### Proyek 2 — Method & Interaksi Objek
-![Proyek 2](screenshots/Proyek2.png)
+<img width="588" height="315" alt="Proyek2" src="https://github.com/user-attachments/assets/193876d6-b04b-44aa-9228-e192b35cc291" />
 
 ### Proyek 3 — Inheritance
-![Proyek 3](screenshots/Proyek3.png)
+<img width="589" height="331" alt="Proyek3" src="https://github.com/user-attachments/assets/8cca0cbb-cc15-4d79-a3b9-64748665df22" />
 
 ### Proyek 4 — Encapsulation
-![Proyek 4](screenshots/Proyek4.png)
+<img width="385" height="180" alt="Proyek4" src="https://github.com/user-attachments/assets/6dff1a62-e45f-4dc0-bc50-d4ff23989925" />
 
 ### Proyek 5 — Abstraction
-![Proyek 5](screenshots/Proyek5.png)
+<img width="506" height="234" alt="Proyek5" src="https://github.com/user-attachments/assets/6b70e836-ab6c-4e61-8e31-4e0be9d970a4" />
 
 ### Proyek 6 — Polymorphism
-![Proyek 6](screenshots/Proyek6.png)
+<img width="736" height="246" alt="Proyek6" src="https://github.com/user-attachments/assets/a47c85f4-8f96-4cb4-aae0-93206cdbfdd3" />
 
 ### Proyek Kelompok — Full OOP (Toko Elektronik)
-![Proyek Kelompok](screenshoots/ProyekKelompok.png)
+<img width="782" height="513" alt="ProyekKelompok" src="https://github.com/user-attachments/assets/95aaeec9-48ba-470d-a238-1874e533472f" />
 
 ---
 
